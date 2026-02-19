@@ -1,1 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
 
+<script>
+
+</script>
+
+
+<title>Javascript examples</title>
+</head>
+<body>
+
+<h3>boo</h3>
+<p> first number? <input id="fn"> <br>
+second number? <input id="sn"> <br>
+<button onclick="add()"> Add the Numbers</button>
+
+</p>
+<p>
+Your Answer Is: <span id="ans">_____________ </span></p>
+</body>
+</html>
